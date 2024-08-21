@@ -1,0 +1,1004 @@
+Strategy	mult	num in portfolio	Insrument	Time	Price	Amount	Type	Source	Comment	
+ZZ_NQ_1	2	2	NQ	6/5/2024 12:06	18966.25	1	Open	User	buy long	
+ZZ_NQ_1	2	2	NQ	6/5/2024 15:31	19032.75	-1	Close	User		
+ZZ_NQ_2	2	2	NQ	6/5/2024 12:18	18962.25	1	Open	User	buy long	
+ZZ_NQ_2	2	2	NQ	6/5/2024 15:31	19032.75	-1	Close	User		
+ZZ_NQ_3	2	2	NQ	6/5/2024 12:03	18957.25	1	Open	User	buy long	
+ZZ_NQ_3	2	2	NQ	6/5/2024 15:31	19032.75	-1	Close	User		
+ZZ_NQ_4	2	2	NQ	6/5/2024 11:06	18938.75	1	Open	User	buy long	
+ZZ_NQ_4	2	2	NQ	6/5/2024 15:31	19032.75	-1	Close	User		
+ZZ_NQ_5	2	2	NQ	6/5/2024 12:03	18957.25	1	Open	User	buy long	
+ZZ_NQ_5	2	2	NQ	6/5/2024 15:31	19032.75	-1	Close	User		
+Fair4_NQ(YM)_T	2	2	NQ	6/5/2024 5:14	18772	1	Open	User	Open up	
+Fair4_NQ(YM)_T	2	2	NQ	6/6/2024 5:37	19088.5	-1	Close	User	Close long	1397
+Fair3_NQ(YM)_T	2	2	NQ	6/5/2024 5:07	18767.25	1	Open	User	Open up	
+Fair3_NQ(YM)_T	2	2	NQ	6/5/2024 23:20	19105	-1	Close	User	Close long	1028
+Fair2_NQ(YM)_T	2	2	NQ	6/5/2024 5:00	18756.25	1	Open	User	Open up	
+Fair2_NQ(YM)_T	2	2	NQ	6/6/2024 5:50	19073.5	-1	Close	User	Close long	1424
+FLP2_NQ(YM)_T	2	2	NQ	6/5/2024 5:07	18767.25	1	Open	User	Open up	
+FLP2_NQ(YM)_T	2	2	NQ	6/6/2024 5:50	19073.5	-1	Close	User	Close long	
+FLP5_NQ(YM)_T	2	4	NQ	6/5/2024 8:34	18782.5	1	Open	User	Open up	
+FLP5_NQ(YM)_T	2	4	NQ	6/5/2024 9:32	18825.5	-1	Close	User	StopLoss: Close short	58
+"FLP1_NQ(ZB,YM)"	2	2	NQ	6/5/2024 9:24	18840.75	1	Open	User	Open up	
+"FLP1_NQ(ZB,YM)"	2	2	NQ	6/6/2024 5:50	19073.5	-1	Close	User	Close long	
+"FLP2_NQ(ZB,YM)"	2	2	NQ	6/5/2024 9:54	18856.5	1	Open	User	Open up	
+"FLP2_NQ(ZB,YM)"	2	2	NQ	6/6/2024 5:50	19073.5	-1	Close	User	Close long	
+"FLP2_NQ(ZB,YM)"	2	2	NQ	6/5/2024 5:09	18769.25	1	Open	User	Open up	
+"FLP2_NQ(ZB,YM)"	2	2	NQ	6/6/2024 5:50	19073.5	-1	Close	User	Close long	
+LV_FLP1_PA(SI)_R	100	1	PA	6/5/2024 10:03	935.5	-1	Open	User	Open down	
+LV_FLP1_PA(SI)_R	100	1	PA	6/5/2024 10:05	929	1	Close	User	Close short	
+LV_FLP1_PA(SI)_R	100	1	PA	6/5/2024 10:19	936.5	-1	Open	User	Open down	
+LV_FLP1_PA(SI)_R	100	1	PA	6/5/2024 10:45	937	1	Close	User	Close short	
+LV_FLP1_PA(SI)_R	100	1	PA	6/5/2024 10:51	940	-1	Open	User	Open down	
+LV_FLP1_PA(SI)_R	100	1	PA	6/5/2024 11:16	940.5	1	Close	User	Close short	
+LV_FLP1_PA(SI)_R	100	1	PA	6/5/2024 21:12	944	1	Open	User	Open up	
+LV_FLP1_PA(SI)_R	100	1	PA	6/5/2024 21:16	949	-1	Close	User	TakeProfit: Close long	
+LV_FLP1_PA(SI)_R	100	1	PA	6/5/2024 21:29	950	1	Open	User	Open up	
+LV_FLP1_PA(SI)_R	100	1	PA	6/6/2024 4:28	946	-1	Close	User	Close long	
+LV_FLP1_PA(SI)_R	100	1	PA	6/6/2024 5:01	939.5	1	Open	User	Open up	16
+LV_FLP1_PA(SI)_R	100	1	PA	6/6/2024 6:59	944	-1	Close	User	Close long	
+LV_FLP2_PA(SI)_R	100	1	PA	6/5/2024 7:43	929	1	Close	User	Close short	
+LV_FLP2_PA(SI)_R	100	1	PA	6/5/2024 10:03	935.5	-1	Open	User	Open down	
+LV_FLP2_PA(SI)_R	100	1	PA	6/5/2024 10:05	929	1	Close	User	Close short	
+LV_FLP2_PA(SI)_R	100	1	PA	6/5/2024 10:19	936.5	-1	Open	User	Open down	
+LV_FLP2_PA(SI)_R	100	1	PA	6/5/2024 10:45	937	1	Close	User	Close short	
+LV_FLP2_PA(SI)_R	100	1	PA	6/5/2024 10:53	940.5	-1	Open	User	Open down	
+LV_FLP2_PA(SI)_R	100	1	PA	6/5/2024 11:18	940.5	1	Close	User	Close short	
+LV_FLP2_PA(SI)_R	100	1	PA	6/5/2024 21:29	950	1	Open	User	Open up	
+LV_FLP2_PA(SI)_R	100	1	PA	6/6/2024 4:28	946	-1	Close	User	Close long	
+Jet1_NQ_time	2	2								
+Jet4_NQ_time	2	2								
+Jet2_NQ_time	2	2								
+Jet3_NQ_time	2	2								
+MS1_NQ_1	2	2								
+MS1_NQ_2	2	2								2
+MS1_NQ_3	2	2								
+MS1_NQ_4	2	2								
+MS1_NQ_5	2	2								
+MS1_NQ_6	2	2								
+SR1_NQ	2	4	NQ	6/5/2024 10:44	18916	1	Open	User		
+SR1_NQ	2	4	NQ	6/5/2024 11:44	18985	-1	Close	User	TakeProfit	
+SR2_NQ	2	4	NQ	6/5/2024 10:38	18921	1	Open	User		
+SR2_NQ	2	4	NQ	6/5/2024 11:44	18985	-1	Close	User	TakeProfit	
+SR3_NQ	2	4	NQ	6/5/2024 10:53	18911.75	1	Open	User		
+SR3_NQ	2	4	NQ	6/5/2024 11:17	18966	-1	Close	User	TakeProfit	
+SR4_NQ	2	4	NQ	6/5/2024 12:02	18957	1	Open	User		
+SR4_NQ	2	4	NQ	6/5/2024 12:09	18971.5	-1	Close	User	TakeProfit	
+SR4_NQ	2	4	NQ	6/5/2024 15:52	19039	1	Open	User		
+SR4_NQ	2	4	NQ	6/5/2024 15:54	19053.75	-1	Close	User	TakeProfit	
+SR4_NQ	2	4	NQ	6/5/2024 18:14	19079.75	1	Open	User		
+SR4_NQ	2	4	NQ	6/5/2024 18:49	19094.75	-1	Close	User	TakeProfit	
+SR5_NQ	2	4	NQ	6/5/2024 11:52	18965.5	1	Open	User		
+SR5_NQ	2	4	NQ	6/5/2024 13:07	19017	-1	Close	User	TakeProfit	
+SR5_NQ	2	4	NQ	6/5/2024 13:25	18997.5	1	Open	User		
+SR5_NQ	2	4	NQ	6/5/2024 14:47	19033.25	-1	Close	User	byTime	
+SR6_NQ	2	4	NQ	6/5/2024 10:38	18921	1	Open	User		
+SR6_NQ	2	4	NQ	6/5/2024 11:17	18966	-1	Close	User	TakeProfit	
+SR6_NQ	2	4	NQ	6/5/2024 11:34	18971.5	1	Open	User		
+SR6_NQ	2	4	NQ	6/5/2024 13:08	19020	-1	Close	User	TakeProfit	
+NWC_NQ_1	2	2								
+NWC_NQ_2	2	2								
+NWC_NQ_3	2	2								
+NWC_NQ_4	2	2	NQ	6/5/2024 10:00	18844.25	1	Open	User	Long	
+NWC_NQ_4	2	2	NQ	6/5/2024 15:36	19037.5	-1	Close	User	Day's over	
+NWC_NQ_5	2	2								
+NWC_NQ_6	2	2								
+NWC_NQ_7	2	2								
+NWR_NQ_1	2	2								
+NWR_NQ_2	2	2								
+NWR_NQ_3	2	2								
+NWR_NQ_4	2	2								
+VIC_NQ_4	2	4								
+VIC_NQ_01	2	2								
+VIC_NQ_02	2	2	NQ	6/5/2024 11:01	18911.75	1	Open	User		
+VIC_NQ_02	2	2	NQ	6/5/2024 11:15	18952	-1	Close	User		
+VIC_NQ_02	2	2	NQ	6/5/2024 13:24	18985.25	1	Open	User		
+VIC_NQ_02	2	2	NQ	6/5/2024 13:42	19026.5	-1	Close	User		
+VIC_NQ_03	2	2	NQ	6/5/2024 11:01	18911.75	1	Open	User		
+VIC_NQ_03	2	2	NQ	6/5/2024 11:18	18971	-1	Close	User		
+VIC_NQ_03	2	2	NQ	6/5/2024 12:16	18971.25	1	Open	User		
+VIC_NQ_03	2	2	NQ	6/5/2024 14:35	19032.75	-1	Close	User		
+VIC_NQ_03	2	2	NQ	6/5/2024 14:46	19036.5	1	Open	User		
+VIC_NQ_03	2	2	NQ	6/5/2024 15:01	19037.5	-1	Close	User		
+VIC_NQ_04	2	4	NQ	6/5/2024 10:56	18914.5	1	Open	User		
+VIC_NQ_04	2	4	NQ	6/5/2024 11:18	18969.75	-1	Close	User		
+VIC_NQ_04	2	4	NQ	6/5/2024 12:51	18990.75	1	Open	User		
+VIC_NQ_04	2	4	NQ	6/5/2024 15:01	19037.5	-1	Close	User		
+VIC_NQ_05	2	2	NQ	6/5/2024 11:01	18911.75	1	Open	User		
+VIC_NQ_05	2	2	NQ	6/5/2024 11:15	18953.5	-1	Close	User		
+VIC_NQ_05	2	2	NQ	6/5/2024 12:09	18968.5	1	Open	User		
+VIC_NQ_05	2	2	NQ	6/5/2024 13:05	19011	-1	Close	User		
+VIC_NQ_05	2	2	NQ	6/5/2024 13:17	19015.5	1	Open	User		
+VIC_NQ_05	2	2	NQ	6/5/2024 15:01	19037.5	-1	Close	User		
+VIC_NQ_06	2	2	NQ	6/5/2024 11:01	18911.75	1	Open	User		
+VIC_NQ_06	2	2	NQ	6/5/2024 11:18	18971	-1	Close	User		
+VIC_NQ_06	2	2	NQ	6/5/2024 12:16	18971.25	1	Open	User		
+VIC_NQ_06	2	2	NQ	6/5/2024 14:35	19032.75	-1	Close	User		
+VIC_NQ_06	2	2	NQ	6/5/2024 14:46	19036.5	1	Open	User		
+VIC_NQ_06	2	2	NQ	6/5/2024 15:01	19037.5	-1	Close	User		
+VIC_NQ_07	2	2	NQ	6/5/2024 10:57	18917.25	1	Open	User		
+VIC_NQ_07	2	2	NQ	6/5/2024 11:16	18960.5	-1	Close	User		
+VIC_NQ_07	2	2	NQ	6/5/2024 11:31	18964.75	1	Open	User		
+VIC_NQ_07	2	2	NQ	6/5/2024 13:04	19008.5	-1	Close	User		
+VIC_NQ_07	2	2	NQ	6/5/2024 13:13	19016.25	1	Open	User		
+VIC_NQ_07	2	2	NQ	6/5/2024 13:21	18996.5	-1	Close	User	stop	
+VIC_NQ_07	2	2	NQ	6/5/2024 13:47	19012.75	1	Open	User		
+VIC_NQ_07	2	2	NQ	6/5/2024 15:01	19037.5	-1	Close	User		
+DD_NQ_2	2	3								
+DD_NQ_3	2	3								
+LEO_NQ_2	2	2	NQ	6/5/2024 10:47	18917.25	2	Open	User		
+LEO_NQ_2	2	2	NQ	6/5/2024 14:42	19035.25	-1	Open	User	take long	
+LEO_NQ_2	2	2	NQ	6/5/2024 15:36	19037.25	-1	Close	User		
+LEO_NQ_4	2	2	NQ	6/5/2024 10:23	18850.25	2	Open	User		
+LEO_NQ_4	2	2	NQ	6/5/2024 10:36	18924.25	-1	Open	User	take long	
+LEO_NQ_4	2	2	NQ	6/5/2024 15:36	19037.25	-1	Close	User		
+MER1_no_YM_NQ	1	5								
+TV_QUBE	20	1	NQ	6/5/2024 11:15	18959.75	1	Open			
+TV_QUBE	20	1	NQ	6/6/2024 8:15	19092.25	-1	Close			
+TV_VFBL_NQ30	2	4	NQ	6/5/2024 11:30	18965.75	1	Open			
+TV_VFBL_NQ30	2	4	NQ	6/5/2024 18:15	19078	-1	Close			
+TV_FISHREV_NQ60	2	4	NQ							
+TV_VICMOD_NQ15	20	1	NQ	6/5/2024 10:45	18916.75	1	Open			
+TV_VICMOD_NQ15	20	1	NQ	6/5/2024 18:15	19078	-1	Close			
+TV_VICMOD_NQ30	20	1	NQ	6/5/2024 11:30	18965.75	1	Open			
+TV_VICMOD_NQ30	20	1	NQ	6/5/2024 18:30	19076.75	-1	Close			
+TV_ZSP_NQ15	2	2	NQ	6/5/2024 10:30	18892.75	1	Open			
+TV_ZSP_NQ15	2	2	NQ	6/5/2024 18:15	19078	-1	Close			
+TV_ES_GC_30	1	1								
+TV_ES_6J_30	1	1	ES	6/4/2024 23:30	5313.25	2	Open			
+TV_ES_6J_30	1	1	ES	6/6/2024 10:30	5364.25	-2	Close			
+TV_ES_6J_30	1	1	6J	6/4/2024 23:30	0.006447	-6	Open			
+TV_ES_6J_30	1	1	6J	6/6/2024 10:30	0.0064185	6	Close			
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										

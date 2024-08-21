@@ -1,0 +1,15 @@
+C:\PRG\Jun5_to_TT\bin\Debug\net6.0\Jun5_to_TT.exe
+C:\PRG\Jun5_to_TT\bin\Debug\net6.0\Jun5_to_TT.deps.json
+C:\PRG\Jun5_to_TT\bin\Debug\net6.0\Jun5_to_TT.runtimeconfig.json
+C:\PRG\Jun5_to_TT\bin\Debug\net6.0\Jun5_to_TT.dll
+C:\PRG\Jun5_to_TT\bin\Debug\net6.0\Jun5_to_TT.pdb
+C:\PRG\Jun5_to_TT\obj\Debug\net6.0\Jun5_to_TT.csproj.AssemblyReference.cache
+C:\PRG\Jun5_to_TT\obj\Debug\net6.0\Jun5_to_TT.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRG\Jun5_to_TT\obj\Debug\net6.0\Jun5_to_TT.AssemblyInfoInputs.cache
+C:\PRG\Jun5_to_TT\obj\Debug\net6.0\Jun5_to_TT.AssemblyInfo.cs
+C:\PRG\Jun5_to_TT\obj\Debug\net6.0\Jun5_to_TT.csproj.CoreCompileInputs.cache
+C:\PRG\Jun5_to_TT\obj\Debug\net6.0\Jun5_to_TT.dll
+C:\PRG\Jun5_to_TT\obj\Debug\net6.0\refint\Jun5_to_TT.dll
+C:\PRG\Jun5_to_TT\obj\Debug\net6.0\Jun5_to_TT.pdb
+C:\PRG\Jun5_to_TT\obj\Debug\net6.0\Jun5_to_TT.genruntimeconfig.cache
+C:\PRG\Jun5_to_TT\obj\Debug\net6.0\ref\Jun5_to_TT.dll
